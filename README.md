@@ -2,6 +2,6 @@
 
 🚀 **Projects:**
 - **[Comet Client](https://discord.gg/DJGyTNUvYW)** - A feature-rich client application.
-- **[wave]([link-to-project](https://discord.gg/aqPuavFs))** - A powerful tool for audio management.
+- **[wave](https://discord.gg/aqPuavFs)** - A powerful tool for audio management.
 
 🌟 Always learning and exploring new technologies!
