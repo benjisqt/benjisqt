@@ -1,3 +1,5 @@
+# 👋 Oh, hey! I'm Benji:
+
 👨‍💻 **Developer** | C#, C++, JavaScript, TypeScript | Aspiring Swift and HTML Developer
 
 🚀 **Projects:**
