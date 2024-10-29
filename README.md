@@ -7,4 +7,5 @@
 - **[wave](https://discord.gg/aqPuavFs)** - A powerful upcoming bot for Discord servers.
 
 🌟 Always learning!
+
 🤖 Constantly making code templates
