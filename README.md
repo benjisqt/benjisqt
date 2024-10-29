@@ -6,4 +6,5 @@
 - **[Comet Client](https://discord.gg/YcrQTWmkaZ)** - A feature-rich Minecraft client built for performance and utility.
 - **[wave](https://discord.gg/aqPuavFs)** - A powerful upcoming bot for Discord servers.
 
-🌟 Always learning and exploring new technologies!
+🌟 Always learning!
+🤖 Constantly making code templates
